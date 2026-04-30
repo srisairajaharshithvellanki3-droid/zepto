@@ -1,2 +1,2 @@
 # zepto
-zepto inventory
+zepto e-commerce inventory dataset
